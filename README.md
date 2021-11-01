@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML and AI
 - 🌱 I’m currently learning Computer vision with arduino
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Gmail thearyans119@gmail.com
+- 📫 How to reach me thearyans119@gmail.com
 
 <!---
 Param-07/Param-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
